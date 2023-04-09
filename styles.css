@@ -3,12 +3,24 @@
 }
 
 html{
-    background-color:black;
+    background-color: #ffffff;
 }
 
 body{
-    background-color: #ffffff;
+    background-color: #000000;
     width:485px;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+   font-size: 3em; 
+   color:#007d7b;
+   text-align: center;
+
+}
+#topTitle{
+    margin:0;
+    padding:0px;
+    width: 400px;
 }
