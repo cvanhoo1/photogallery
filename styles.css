@@ -17,10 +17,18 @@ h1{
    font-size: 3em; 
    color:#007d7b;
    text-align: center;
+   margin-top: 0px;
+ 
+   
+   
 
 }
 #topTitle{
-    margin:0;
+    background-color: #ffffff;
+    margin-top:0;
+    margin-left: 40px;
     padding:0px;
     width: 400px;
+    height:60px;
+   
 }
