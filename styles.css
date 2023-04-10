@@ -1,6 +1,4 @@
-*{
-    border: 1px solid black;
-}
+
 
 html{
     background-color: #ffffff;
@@ -24,6 +22,7 @@ h2{
     font-size: 2em;
     text-transform:uppercase;
     text-align: center;
+    padding-top: 16px;
 }
 #topTitle{
     background-color: #ffffff;
@@ -69,3 +68,85 @@ nav a {
     width: 400px;
     margin: auto;
 }
+
+p{
+    padding-left: 8px;
+    font-size: 1em;
+    font-weight:550;
+}
+
+img{
+    max-width:318px;
+    
+    
+}
+
+figure{
+    display: flex;
+    flex-flow: column;
+    max-width: 318px;
+    margin:auto;
+    
+    
+}
+
+figcaption{
+    color:#000000;
+    text-align: center;
+    position:relative;
+    
+}
+
+form{
+    color:#ffffff;
+    display:flex;
+    flex-flow: column wrap;
+    align-content: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+form>p{
+    text-align: center;
+    margin: auto;
+    padding: 12px;
+    
+}
+input{
+    width: 80%;
+    height: 24px;
+    margin-bottom: 24px;
+    margin-left: 24px;
+    padding-bottom: 6px;
+  
+}
+
+label{
+    font-size: 1em;
+    text-transform: uppercase;
+    margin-left: 40px;
+    padding-bottom: 4px;
+
+}
+
+ form>h2{
+    margin-bottom: 0px;
+    margin-top: 12px;
+ }
+
+ button{
+    width: 50%;
+    font-size: 1em;
+    color:#ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #007d7b;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 12px;
+    
+    
+ }
+
