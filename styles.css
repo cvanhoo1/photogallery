@@ -302,6 +302,17 @@ h1{
     grid-template-columns: 1fr 1fr;
   
 }
+
+ img.Hi{
+    position: relative;
+    top: -130px;
+}
+
+.hawaii{
+    top: -155px; 
+    color:#ffffff;
+}
+
 form{
     width: 700px;
     margin: auto;
@@ -357,6 +368,16 @@ form h2{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
       
+    }
+
+    img.Hi{
+        position: relative;
+        top: 0px;
+    }
+    
+    .hawaii{
+        top: -25px; 
+        color:#ffffff;
     }
 
     form{
