@@ -12,10 +12,13 @@ body{
 }
 
 h1{
-   font-size: 3em; 
+   font-size: 2.5em; 
    color:#007d7b;
    text-align: center;
    margin-top: 0px;
+   margin-bottom: 24px;
+   text-transform: uppercase;
+
 }
 
 h2{
@@ -30,7 +33,7 @@ h2{
     margin-left: 40px;
     padding:0px;
     width: 400px;
-    height:60px;
+    height:50px;
 }
 
 ul{
@@ -94,10 +97,77 @@ figure{
 figcaption{
     color:#000000;
     text-align: center;
-
+    position: relative;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 500;
     
     
 }
+
+
+.chile{
+    top: -25px; 
+    color:#ffffff;
+}
+
+.guatamala{
+    top: -195px;
+    color:#ffffff;
+}
+
+.hawaii{
+    top: -25px; 
+    color:#ffffff;
+}
+
+.iran{
+    top: -460px;
+    color: #000000;
+}
+
+.ireland{
+    top: -460px;
+    color: #000000;
+}
+
+.italy{
+    top: -25px; 
+    color:#000000;
+}
+
+.moab{
+    top: -25px; 
+    color:#ffffff;
+}
+
+.rocky{
+    top: -195px;
+    color:#ffffff;
+    
+}
+
+.switzerland{
+    top: -195px; 
+    color:#000000;
+}
+
+.uk{
+    top: -195px; 
+    color:#000000;
+}
+
+.usa{
+    top: -195px; 
+    color:#000000;
+}
+
+.wyoming{
+    top: -195px; 
+    color:#000000;
+}
+
+
 
 form{
     color:#ffffff;
@@ -208,6 +278,7 @@ ul{
 h1{
     justify-content: left;
     padding-left:8px; 
+    text-transform: uppercase;
 }
 
 #gallery{
@@ -270,8 +341,12 @@ form h2{
         
     }
 
-    nav{
-        
+    h1{
+        text-transform: uppercase;
+    }
+
+    ul{
+        margin-left:450px;
     }
 
     #gallery{
@@ -289,7 +364,9 @@ form h2{
         margin: auto;
     }
 
-
+    button{
+        margin-left: 180px;
+    }
 
 
 
