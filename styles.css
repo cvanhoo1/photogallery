@@ -66,6 +66,9 @@ nav a {
     border: 2px solid white;
     background-color:black;
     color: #ffffff;
+    font-weight: bold ;
+    text-transform: uppercase;
+    text-decoration: none;
 }
 
 #gallery{
