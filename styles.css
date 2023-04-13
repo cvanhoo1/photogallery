@@ -46,8 +46,9 @@ ul{
 }
 
 nav{
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 12px;
 }
 
 nav a {
@@ -255,7 +256,7 @@ body{
     display: flex;
     justify-content:left;
     margin:auto;
-    width: 700px;
+    width: 680px;
     
 
 }
@@ -282,7 +283,7 @@ h1{
 }
 
 #gallery{
-    width: 700px;
+    width: 680px;
     margin:auto; 
 }
 [href="#top"] {
@@ -314,8 +315,9 @@ h1{
 }
 
 form{
-    width: 700px;
+    width: 680px;
     margin: auto;
+    padding-right:15px;
 }
 
 br{
